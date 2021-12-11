@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">sfeduapp</string>
+    <string name="login">войти</string>
+    <string name="singin">зарегистрироваться</string>
 </resources>
